@@ -27,6 +27,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -45,11 +46,13 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROJETOS\TrustNetwork\trustNetWork\src\repository" />
       <recent name="C:\Users\Thiago Silva\Documents\Sistema Solar\TrustNetwork\trustNetWork\src" />
       <recent name="C:\Users\Thiago Silva\Documents\Sistema Solar\TrustNetwork\trustNetWork\repository" />
     </key>
@@ -111,7 +114,7 @@
       <workItem from="1743800022174" duration="10000" />
       <workItem from="1743800036284" duration="16000" />
       <workItem from="1743800114139" duration="64000" />
-      <workItem from="1743800320214" duration="990000" />
+      <workItem from="1743800320214" duration="5054000" />
     </task>
     <servers />
   </component>
@@ -135,11 +138,6 @@
           <url>file://$PROJECT_DIR$/untitled/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/trustNetWork/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
