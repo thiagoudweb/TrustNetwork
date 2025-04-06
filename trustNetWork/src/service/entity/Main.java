@@ -40,6 +40,9 @@ public class Main {
         // mostrar rede
         System.out.println("📡 Rede de confiança gerada:\n");
         rede.mostrarRede();
+
+
+        // teste//
         UsuarioEntity userA = todosUsuarios.get(0);
         UsuarioEntity userB = todosUsuarios.get(5);
 
